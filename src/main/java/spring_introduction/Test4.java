@@ -15,6 +15,6 @@ public class Test4 {
 //        System.out.println("Переменные ссылаются на один и тот же объект? "+(myDog==yourDog));
 //        System.out.println(myDog);
 //        System.out.println(yourDog);
-//        context.close();
+        context.close();
     }
 }
